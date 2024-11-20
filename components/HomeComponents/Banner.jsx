@@ -46,7 +46,7 @@ const Banner = () => {
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>10+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>40+</span>
                         <span className='text-xs text-Snow'>Opensource Projects</span>
                     </div>
 
