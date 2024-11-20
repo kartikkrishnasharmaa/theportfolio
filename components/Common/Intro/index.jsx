@@ -8,7 +8,7 @@ import Tools from './Tools';
 import Skills from './Skills';
 import Image from 'next/image';
 import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
-import kartik from '../../../public/images/profile-pic.jpg';
+import kartik from '../../../public/images/kartik.jpg';
 
 
 const Intro = () => {
@@ -26,7 +26,7 @@ const Intro = () => {
       {/* middle components */}
       <div className='beech z-20 flex flex-col overflow-y-scroll pt-48 top-48 space-y-6 divide-y divide-white overflow-x-hidden no-scrollbar px-4'>
         <Location />
-        <Languages />
+        {/* <Languages /> */}
         <Skills />
         <Tools />
         <Contact />

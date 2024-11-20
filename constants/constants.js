@@ -61,5 +61,5 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/kartikkrishnasharmaa',
-  LINKEDIN: 'https://www.linkedin.com/in/',
+  LINKEDIN: 'https://www.linkedin.com/in/kartik-sharma-developer/',
 };

@@ -20,7 +20,7 @@ const Banner = () => {
                                                 options={{
                                                     strings:
                                                         ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                            'Data Analyst'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
@@ -43,16 +43,6 @@ const Banner = () => {
                     <div className="flex items-center gap-x-1">
                         <span className='text-base md:text-lg text-Green font-bold'>10+</span>
                         <span className='text-xs text-Snow'>Completed Projects</span>
-                    </div>
-
-                    <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>8+</span>
-                        <span className='text-xs text-Snow'>Freelance Clients</span>
-                    </div>
-
-                    <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>5+</span>
-                        <span className='text-xs text-Snow'>Honors & Awards</span>
                     </div>
 
                     <div className="flex items-center gap-x-1">
