@@ -5,3 +5,5 @@ module.exports = {
     ignoreDuringBuilds: true,
   },
 }
+
+//config file
